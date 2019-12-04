@@ -10,7 +10,7 @@ songs = [
   "Amos Lee - Keep It Loose, Keep It Tight"
 ]
 
-def run()
+def run
   greeting
   command = user_command
 end
